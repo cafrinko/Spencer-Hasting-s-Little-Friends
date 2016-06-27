@@ -1,0 +1,43 @@
+*
+
+.header h2 {
+  background: orange;
+  color: red;
+  padding: 15px;
+  margin-right:300px;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.redText {
+  color: red;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+img {
+  width: 140px;
+  height: 140px;
+  border: 3px solid blue;
+}
+
+.viewFriends {
+  padding-left: 500px;
+}
+
+.online {
+  color: green;
+  text-align: center;
+}
+
+.name {
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+}
